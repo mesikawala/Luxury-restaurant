@@ -43,3 +43,5 @@ export const galleryImages = [
   { type: "interior", alt: "Private dining area" },
   { type: "food", alt: "fine dessert plating" },
 ];
+
+export default menuData;

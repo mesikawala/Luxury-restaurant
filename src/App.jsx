@@ -5,6 +5,7 @@ import Menu from "./components/Menu";
 import Gallery from "./components/Gallery";
 import Booking from "./components/Booking";
 import Footer from "./components/Footer";
+import menuData from "./data/menuData";
 import "./styles/animations.css";
 
 function App() {
