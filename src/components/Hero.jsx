@@ -14,7 +14,7 @@ const Hero = () => {
       ></div>
       <div className="relative z-20 text-center px-4 animate-fade-in">
         <h1 className="text-6xl md:text-8xl font-bold mb-6 gold-text tracking-wider">
-          La Masion d'Or
+          La Maison d'Or
         </h1>
         <p className="text-xl md:text-2xl mb-8 text-gray-300 font-light">
           Where Culinary Art Meets Elegance

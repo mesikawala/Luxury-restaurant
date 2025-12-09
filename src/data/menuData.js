@@ -1,8 +1,8 @@
-export const menuData = [
+export const menuItems = [
   {
     name: "Wagyu Beef Wellington",
     price: "$125",
-    desc: "Premium wagyu wrapped in gollden pastry",
+    desc: "Premium wagyu wrapped in golden pastry",
     category: "Main Course",
   },
   {
@@ -14,13 +14,13 @@ export const menuData = [
   {
     name: "Truffle Risotto",
     price: "$85",
-    desc: "Arbario rice with black truffles shavings",
+    desc: "Arborio rice with black truffle shavings",
     category: "Appetizer",
   },
   {
     name: "Foie Gras Terrine",
     price: "$78",
-    desc: "Duck liver pâté with brioche and fig compote",
+    desc: "Duck liver with brioche and fig compote",
     category: "Appetizer",
   },
   {
@@ -30,7 +30,7 @@ export const menuData = [
     category: "Seafood",
   },
   {
-    name: "Chateau Briand",
+    name: "Châteaubriand",
     price: "$145",
     desc: "Prime beef tenderloin for two",
     category: "Main Course",
@@ -41,7 +41,5 @@ export const galleryImages = [
   { type: "interior", alt: "Elegant dining room" },
   { type: "food", alt: "Gourmet dish presentation" },
   { type: "interior", alt: "Private dining area" },
-  { type: "food", alt: "fine dessert plating" },
+  { type: "food", alt: "Fine dessert plating" },
 ];
-
-export default menuData;
