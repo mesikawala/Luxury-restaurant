@@ -6,6 +6,7 @@ import Gallery from "./components/Gallery";
 import Booking from "./components/Booking";
 import Footer from "./components/Footer";
 import "./styles/animation.css";
+import "App.css";
 
 function App() {
   const [isVisible, setIsVisible] = useState({});
